@@ -16,5 +16,8 @@
      border: 1px solid red green blue;
 }
 #be{
-    margin-left: ;
+ margin-left: 20px;
+} 
+#be{
+    display: flex;
 }
